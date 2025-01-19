@@ -1,0 +1,58 @@
+body {
+    margin: 0px;
+    background-color: #e5e5e5;
+}
+.biggie {
+    display: flex;
+}
+.bigbox1 {
+    width: 30%;
+    height: 90vh;
+    background-color: #14213d;
+}
+.bigbox2 {
+    width: 40%;
+    height: 90vh;
+    background-color: #fca311;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.bigbox3 {
+    width: 30%;
+    height: 90vh;
+    background-color: #14213d;
+}
+.tetristext {
+    color: #ffffff;
+    font-family: arial black;
+    font-size: 350%;
+    margin-left: 2vw;
+    margin-bottom: 0;
+    margin-top: 2vh;
+}
+.nametext {
+    margin-top: 0;
+    color: #ffffff;
+    font-family: arial black;
+    font-size: 100%;
+    margin-left: 3vw;
+}
+.cell {
+    background: white;
+    border: 5px solid black;
+}
+.scoretext {
+    color: #ffffff;
+    font-family: arial black;
+    font-size: 200%;
+    margin-left: 5vw;
+    margin-top: 4vh;
+}
+.bottom {
+    width: 100%;
+    display: flex;
+}
+.bottomtext {
+    
+}
